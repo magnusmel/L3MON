@@ -1,0 +1,11 @@
+{
+    "admin":{
+        "username": "gadmin",
+        "password:": "0f57e4b3842408152362405406f27b78",
+        "loginToken": "",
+        "logs": [],
+        "iplog": []
+    },
+    "clients":[]
+
+}
